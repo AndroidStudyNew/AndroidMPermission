@@ -1,4 +1,4 @@
-package me.chunyu.spike.wcl_permission_demo;
+package com.sjtu.permission.test;
 
 import android.app.Activity;
 import android.content.DialogInterface;
@@ -16,7 +16,7 @@ import android.support.v7.app.AppCompatActivity;
 /**
  * 权限获取页面
  * <p/>
- * Created by wangchenlong on 16/1/26.
+ * Created by charles on 16/1/26.
  */
 public class PermissionsActivity extends AppCompatActivity {
 
